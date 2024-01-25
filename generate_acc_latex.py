@@ -1,6 +1,5 @@
 import os
 import re
-import collections
 import pandas as pd
 
 # Dictionary to map feature fusion names to LaTeX expressions
